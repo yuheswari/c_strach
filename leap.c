@@ -16,5 +16,8 @@ void main(){
         if(year%4==0){
             printf("paka year");
         }
+        else{
+            printf("not a year");
+        }
     }
 }
