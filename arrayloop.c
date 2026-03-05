@@ -10,7 +10,7 @@ void main(){
     }
 
     for(i=0;i<3;i++){
-        printf("%d\n",heights[9])
+        printf("%d\n",heights[9]);
     }
 
 
