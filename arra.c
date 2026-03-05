@@ -7,10 +7,10 @@ void main(){
 
     printf("%d\n",heights[0]);
     printf("%d\n",heights[1]);
-    printf("%d\n",heights[3]);
+    printf("%d\n",heights[2]);
     heights[0]=10; //update
 
     //traverse 
-    
+
 
 }
